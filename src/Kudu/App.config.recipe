@@ -1,0 +1,1 @@
+﻿App.config = config/ + [App.root.config, App.dev.local.config];
